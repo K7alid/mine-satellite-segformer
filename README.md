@@ -1,0 +1,1 @@
+# mine-satellite-segformer
