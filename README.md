@@ -2,7 +2,7 @@
 
 A deep learning solution for mine detection in satellite imagery using Segformer architecture. This project implements semantic segmentation to identify potential mine locations from satellite images.
 
-![Project Banner](segformer_model/examples/AREA_A_2023-12-01_1_21NTF_1_0_visual.png)
+![Project Banner](examples/AREA_A_2023-12-01_1_21NTF_1_0_visual.png)
 
 ## 🎯 Features
 
@@ -18,13 +18,13 @@ A deep learning solution for mine detection in satellite imagery using Segformer
 
 | Original Image | Ground Truth | Prediction |
 |:-------------:|:------------:|:----------:|
-| ![Original](segformer_model/examples/AREA_A_2023-12-01_1_21NTF_1_0_visual.png) | ![Ground Truth](segformer_model/AREA_A_2023-12-01_1_21NTF_1_0_mine_ground_truth.png) | ![Prediction](segformer_model/examples/AREA_A_2023-12-01_1_21NTF_1_0_predicted_mask.png) |
+| ![Original](examples/AREA_A_2023-12-01_1_21NTF_1_0_visual.png) | ![Ground Truth](examples/AREA_A_2023-12-01_1_21NTF_1_0_mine_ground_truth.png) | ![Prediction](examples/AREA_A_2023-12-01_1_21NTF_1_0_predicted_mask.png) |
 
 ### Example 2: Mine Detection
 
 | Original Image | Ground Truth | Prediction |
 |:-------------:|:------------:|:----------:|
-| ![Original](segformer_model/examples/AREA_A_2023-12-01_1_21NTF_1_1_visual.png) | ![Ground Truth](segformer_model/AREA_A_2023-12-01_1_21NTF_1_1_mine_ground_truth.png) | ![Prediction](segformer_model/examples/AREA_A_2023-12-01_1_21NTF_1_1_predicted_mask.png) |
+| ![Original](examples/AREA_A_2023-12-01_1_21NTF_1_1_visual.png) | ![Ground Truth](examples/AREA_A_2023-12-01_1_21NTF_1_1_mine_ground_truth.png) | ![Prediction](examples/AREA_A_2023-12-01_1_21NTF_1_1_predicted_mask.png) |
 
 ## 📈 Performance Metrics
 
